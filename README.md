@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @truketlema
 - 👀 I’m interested in Fullstack web development
-- 🌱 I’m currently learning React Next.js in GDG campus that's located at AASTu
-- 💞️ I’m looking to collaborate on Fullstack development
+- 🌱 I’m currently learning React Next.js in GDG campus that's located at AASTU
+- 💞️ I’m looking to collaborate on Frontend, backend, and also Fullstack development
 - 📫 How to reach me ...truketlema9489@gmail.com
 -  😄 Pronouns: She
 - ⚡ Fun fact: 
