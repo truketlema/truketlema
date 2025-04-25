@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Frontend, backend, and also Fullstack development
 - 📫 How to reach me ...truketlema9489@gmail.com
 -  😄 Pronouns: She
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I'm a writer
+- 
 
 <!---
 truketlema/truketlema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
