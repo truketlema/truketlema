@@ -51,17 +51,16 @@
 
 ## 🌍 Now
 
-- ⚛️ Building React + Next.js apps  
+- ⚛️ Building MERN apps  
 - 🧱 Improving system design skills  
-- 🚀 Shipping real deployed projects  
-- 🎯 Preparing production-level portfolio  
+- 🚀 Shipping real deployed projects   
 
 ## 📫 Connect
 
 <p align="center">
 
-[LinkedIn](https://linkedin.com/in/YOUR_USERNAME) •  
-[Portfolio](https://your-portfolio-link.com) •  
-[Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/truket-lema-707b19316/) •  
+[Portfolio](https://myportfolio-liart-omega-60.vercel.app/) •  
+[Email](mailto:truketlema9489@gmail.com)
 
 </p>
