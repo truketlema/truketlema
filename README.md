@@ -13,46 +13,36 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Enzertt/YOUR_REPO/main/enzert-logo.png" width="80"/>
-</p>
-
 <table align="center">
 <tr>
 
 <td align="center" width="33%">
 
-### 🧠 Avril Platform
+### MyPoetry Platform
 
 <a href="https://avril-b6c4c.web.app/">
   <img src="https://img.shields.io/badge/LIVE%20DEMO-OPEN-111952?style=for-the-badge"/>
 </a>
 
-A deployed web application built with modern frontend architecture and Firebase hosting.
-
 </td>
 
 <td align="center" width="33%">
 
-### ⚡ RippleUp
+### RippleUp
 
 <a href="https://rippleup.netlify.app/">
   <img src="https://img.shields.io/badge/LIVE%20DEMO-OPEN-2D9CDB?style=for-the-badge"/>
 </a>
 
-Hackathon project focused on rapid UI development, collaboration, and frontend execution under time constraints.
-
 </td>
 
 <td align="center" width="33%">
 
-### 🧳 Rebel Rover Travel
+### Rebel Rover Travel
 
 <a href="https://rebel-rover-tt.netlify.app/">
   <img src="https://img.shields.io/badge/LIVE%20DEMO-OPEN-0F172A?style=for-the-badge"/>
 </a>
-
-Responsive travel platform UI with clean layout and modern frontend design.
 
 </td>
 
