@@ -41,44 +41,59 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Enzertt/YOUR_REPO/main/enzert-logo.png" width="70"/>
+  <img src="https://raw.githubusercontent.com/Enzertt/YOUR_REPO/main/enzert-logo.png" width="80"/>
 </p>
 
 ---
+
+<!-- PROJECT CARD 1 -->
+<p align="center">
 
 ### 🧠 Avril Platform
 
-<p align="center">
-  <a href="https://avril-b6c4c.web.app/">
-    <img src="https://img.shields.io/badge/LIVE-DEMO-111952?style=for-the-badge&logo=firebase&logoColor=white">
-  </a>
+<a href="https://avril-b6c4c.web.app/">
+  <img src="https://img.shields.io/badge/🚀%20LIVE%20PROJECT-OPEN%20APP-111952?style=for-the-badge"/>
+</a>
+
 </p>
 
-> Deployed web application built with modern frontend structure and real product deployment focus.
+<p align="center">
+A production-ready web application built with modern frontend architecture and Firebase hosting.
+</p>
 
 ---
+
+<!-- PROJECT CARD 2 -->
+<p align="center">
 
 ### ⚡ RippleUp
 
-<p align="center">
-  <a href="https://rippleup.netlify.app/">
-    <img src="https://img.shields.io/badge/LIVE-DEMO-2D9CDB?style=for-the-badge&logo=netlify&logoColor=white">
-  </a>
+<a href="https://rippleup.netlify.app/">
+  <img src="https://img.shields.io/badge/⚡%20LIVE%20PROJECT-OPEN%20APP-2D9CDB?style=for-the-badge"/>
+</a>
+
 </p>
 
-> Hackathon project focused on fast UI delivery, collaboration, and frontend execution under time constraints.
+<p align="center">
+Hackathon project focused on rapid UI development, teamwork, and frontend execution under time constraints.
+</p>
 
 ---
 
+<!-- PROJECT CARD 3 -->
+<p align="center">
+
 ### 🧳 Rebel Rover Travel
 
-<p align="center">
-  <a href="https://rebel-rover-tt.netlify.app/">
-    <img src="https://img.shields.io/badge/LIVE-DEMO-0F172A?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
+<a href="https://rebel-rover-tt.netlify.app/">
+  <img src="https://img.shields.io/badge/🧳%20LIVE%20PROJECT-OPEN%20APP-0F172A?style=for-the-badge"/>
+</a>
+
 </p>
 
-> Responsive travel platform UI with modern layout design and clean frontend architecture.
+<p align="center">
+Responsive travel platform UI with clean layout structure and modern frontend design principles.
+</p>
 
 ---
 
