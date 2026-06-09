@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;React+%2F+Next.js+Builder;MERN+Stack+Developer;UI+Focused+Engineer&center=true&width=500&height=45">
 </p>
-
+---
 ## ⚙️ Tech Stack
 
 <p align="center">
