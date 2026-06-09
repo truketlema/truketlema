@@ -1,26 +1,59 @@
-<!-- HEADER (keep this) -->
+<!-- HERO HEADER (KEEP THIS — already perfect) -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:111952,100:2D9CDB&height=240&section=header&text=Truket%20Lema&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20|%20MERN%20Developer&descAlignY=55)
 
 ---
 
-<!-- TYPING INTRO (animation replaces long text) -->
+<!-- ANIMATED ROLE ROTATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;React+%2F+Next.js+Builder;MERN+Stack+Explorer;Hackathon+Team+Lead;UI+Focused+Engineer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com?lines=Building+Web+Apps+that+Ship;React+%2F+Next.js+Developer;MERN+Stack+Engineer;Hackathon+Frontend+Lead;Turning+Ideas+into+Products&center=true&width=600&height=45">
 </p>
 
 ---
 
-## ⚙️ Tech Stack
+## ⚡ LIVE PROJECTS
+
+### 🧠 Avril Platform
+<p align="center">
+  <a href="https://avril-b6c4c.web.app/">
+    <img src="https://img.shields.io/badge/LIVE-VISIT%20PROJECT-111952?style=for-the-badge&logo=firebase&logoColor=white">
+  </a>
+</p>
+
+> A deployed web application focused on real product deployment and scalable frontend structure.
+
+---
+
+### ⚡ RippleUp (Hackathon System)
+<p align="center">
+  <a href="https://rippleup.netlify.app/">
+    <img src="https://img.shields.io/badge/LIVE-VISIT%20PROJECT-2D9CDB?style=for-the-badge&logo=netlify&logoColor=white">
+  </a>
+</p>
+
+> Hackathon project built under time constraints — focused on teamwork, UI speed, and frontend execution.
+
+---
+
+### 🧳 Rebel Rover Travel Platform
+<p align="center">
+  <a href="https://rebel-rover-tt.netlify.app/">
+    <img src="https://img.shields.io/badge/LIVE-VISIT%20PROJECT-0F172A?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
+
+> Travel platform UI system with responsive layout and modern frontend structure.
+
+---
+
+## 🧩 TECH STACK (VISUAL ONLY)
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,git,figma,vscode" />
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,figma,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Live)
+## 📊 GITHUB STATS
 
 <p align="center">
 
@@ -32,53 +65,31 @@
 
 ---
 
-## 🔥 Streak
+## 🔥 STREAK
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🌐 CONNECT
 
 <p align="center">
 
-### 🧠 MindMirror
-MERN reflection system  
-→ Emotion tracking + backend architecture
+<a href="https://github.com/Enzertt">
+  <img src="https://img.shields.io/badge/GitHub-111952?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
----
-
-### 🎯 Kignit
-Campus event discovery platform  
-→ UI system + product design thinking
-
----
-
-### ⚡ RippleUp
-Hackathon project  
-→ Team leadership + frontend execution
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-2D9CDB?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </p>
 
 ---
 
-## 🌍 Now
-
-- ⚛️ Building React + Next.js apps  
-- 🧱 Improving system design skills  
-- 🚀 Shipping real deployed projects  
-- 🎯 Preparing production-level portfolio
-
----
-
-## 📫 Connect
-
+<!-- FOOTER LINE -->
 <p align="center">
-
-[LinkedIn](https://linkedin.com/in/YOUR_USERNAME) •  
-[Portfolio](https://your-portfolio-link.com) •  
-[Email](mailto:your.email@example.com)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D9CDB,100:111952&height=120&section=footer"/>
 </p>
