@@ -52,12 +52,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/truket-lema-707b19316/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://myportfolio-liart-omega-60.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111952?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+
   <a href="mailto:truketlema9489@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
