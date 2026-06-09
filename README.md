@@ -1,80 +1,100 @@
-<!-- HEADER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Truket%20Lema&fontSize=40&fontAlignY=35&desc=Software%20Engineer%20|%20React%20%26%20MERN%20Developer&descAlignY=55)
+<!-- HERO HEADER -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:111952,100:2D9CDB&height=240&section=header&text=Truket%20Lema&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Frontend%20Architect%20|%20MERN%20Developer&descAlignY=55&descSize=16)
 
 ---
 
-## 👋 About Me
+## ⚡ Building systems that turn ideas into real products
 
-Hi, I'm **Truket Lema**, a Software Engineering student and frontend-focused developer passionate about building clean, meaningful, and scalable web applications.
+I’m a Software Engineering student focused on **frontend architecture, full-stack MERN systems, and product-driven development**.
 
-- 💻 Focused on **React, Next.js, Node.js, MongoDB**
-- ⚙️ Currently building **real-world MERN projects**
-- 🎯 Interested in **frontend architecture & UI systems**
-- 🚀 Hackathon team leader & frontend developer
-- 🌍 Based in Addis Ababa, Ethiopia
+I enjoy building tools that solve real problems — especially in **education, student life, and community systems**.
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 What I Do
+
+- ⚛️ Build scalable **React / Next.js interfaces**
+- 🧩 Design reusable frontend systems & components
+- 🌐 Develop full-stack apps using **Node + Express + MongoDB**
+- 🎯 Lead frontend in hackathons & team projects
+- 🚀 Turn ideas into deployed products (not just demos)
+
+---
+
+## 🧰 Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss)
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1B4332?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 
 ### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-0B3D2E?style=for-the-badge&logo=mongodb)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Figma](https://img.shields.io/badge/Figma-1F2937?style=for-the-badge&logo=figma)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Analytics
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
----
-
-## 🚀 Featured Projects
-
-### 📌 Portfolio Website
-A modern developer portfolio built with React + Tailwind.
-
-### 📌 MindMirror (MERN Project)
-Emotion tracking + reflection system using full-stack architecture.
-
-### 📌 RippleUp (Hackathon Project)
-Team-built platform focused on community engagement.
-
-### 📌 Kignit (Campus App Concept)
-Campus event discovery platform for students in Ethiopia.
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📈 What I'm Currently Working On
+## 🔥 Contribution Streak
 
-- Building full-stack MERN applications
-- Improving system design understanding
-- Enhancing UI/UX design skills
-- Preparing production-level projects for deployment
+![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📬 Connect With Me
+## 🚀 Featured Work (Real Projects)
+
+### 🧠 MindMirror (MERN System)
+A full-stack reflection platform focused on emotional tracking and self-awareness.
+
+> Full-stack architecture, authentication flow, API design, MongoDB modeling.
+
+---
+
+### 🎯 Kignit — Campus Event Discovery System
+A student-focused platform that centralizes campus opportunities and events.
+
+> Built with React + UI system design + product thinking.
+
+---
+
+### ⚡ RippleUp (GDG Hackathon)
+A collaborative hackathon project built under time constraints.
+
+> Led frontend development + team coordination.
+
+---
+
+### 🧳 Travel & Movie Apps
+Smaller production-style projects focused on API integration and UI design.
+
+---
+
+## 📈 Current Focus
+
+- 🧱 Improving system design (frontend + backend)
+- ⚙️ Building production-grade MERN applications
+- 🎨 Strengthening UI/UX consistency
+- 🚀 Deploying more real-world projects
+
+---
+
+## 🌍 Let’s Connect
 
 [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)  
 [Portfolio](https://your-portfolio-link.com)  
@@ -82,11 +102,6 @@ Campus event discovery platform for students in Ethiopia.
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Developer Mindset
 
-I enjoy turning messy ideas into clean, usable interfaces — especially when they solve real student problems.
-
-<!---
-truketlema/truketlema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> “Good code works. Great code ships. Real impact happens when users touch it.”
