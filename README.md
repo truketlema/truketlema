@@ -48,7 +48,7 @@
 </table>
 
 
-## 📫 Connect
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/truket-lema-707b19316/">
