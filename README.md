@@ -1,11 +1,12 @@
-<!-- HEADER (keep this) -->
+
+<!-- HEADER -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:111952,100:2D9CDB&height=240&section=header&text=Truket%20Lema&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20|%20MERN%20Developer&descAlignY=55)
 
 ---
 
-<!-- TYPING INTRO -->
+<!-- ANIMATED INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;React+%2F+Next.js+Builder;MERN+Stack+Explorer;Hackathon+Team+Lead;UI+Focused+Engineer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;React+%2F+Next.js+Builder;MERN+Stack+Engineer;Hackathon+Team+Lead;UI+Focused+Engineer&center=true&width=600&height=45">
 </p>
 
 ---
@@ -18,7 +19,7 @@
 
 ---
 
-## 📊 GitHub Stats (Live)
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -46,54 +47,40 @@
 
 ---
 
-<!-- PROJECT CARD 1 -->
-<p align="center">
+### 📦 Project Showcase Grid
 
-### 🧠 Avril Platform
+<table align="center">
+  <tr>
 
-<a href="https://avril-b6c4c.web.app/">
-  <img src="https://img.shields.io/badge/🚀%20LIVE%20PROJECT-OPEN%20APP-111952?style=for-the-badge"/>
-</a>
+    <!-- PROJECT 1 -->
+    <td align="center" width="300">
+      <img src="https://img.shields.io/badge/Avril%20Platform-LIVE-111952?style=for-the-badge" /><br><br>
+      <a href="https://avril-b6c4c.web.app/">
+        <b>🔗 Open Project</b>
+      </a><br><br>
+      <sub>Modern web app built with Firebase hosting and scalable frontend structure.</sub>
+    </td>
 
-</p>
+    <!-- PROJECT 2 -->
+    <td align="center" width="300">
+      <img src="https://img.shields.io/badge/RippleUp-Hackathon-2D9CDB?style=for-the-badge" /><br><br>
+      <a href="https://rippleup.netlify.app/">
+        <b>🔗 Open Project</b>
+      </a><br><br>
+      <sub>Hackathon project focused on rapid UI delivery and team execution.</sub>
+    </td>
 
-<p align="center">
-A production-ready web application built with modern frontend architecture and Firebase hosting.
-</p>
+    <!-- PROJECT 3 -->
+    <td align="center" width="300">
+      <img src="https://img.shields.io/badge/Rebel%20Rover-Travel-0F172A?style=for-the-badge" /><br><br>
+      <a href="https://rebel-rover-tt.netlify.app/">
+        <b>🔗 Open Project</b>
+      </a><br><br>
+      <sub>Responsive travel UI system with clean layout and modern design.</sub>
+    </td>
 
----
-
-<!-- PROJECT CARD 2 -->
-<p align="center">
-
-### ⚡ RippleUp
-
-<a href="https://rippleup.netlify.app/">
-  <img src="https://img.shields.io/badge/⚡%20LIVE%20PROJECT-OPEN%20APP-2D9CDB?style=for-the-badge"/>
-</a>
-
-</p>
-
-<p align="center">
-Hackathon project focused on rapid UI development, teamwork, and frontend execution under time constraints.
-</p>
-
----
-
-<!-- PROJECT CARD 3 -->
-<p align="center">
-
-### 🧳 Rebel Rover Travel
-
-<a href="https://rebel-rover-tt.netlify.app/">
-  <img src="https://img.shields.io/badge/🧳%20LIVE%20PROJECT-OPEN%20APP-0F172A?style=for-the-badge"/>
-</a>
-
-</p>
-
-<p align="center">
-Responsive travel platform UI with clean layout structure and modern frontend design principles.
-</p>
+  </tr>
+</table>
 
 ---
 
