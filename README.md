@@ -3,7 +3,7 @@
 
 ---
 
-<!-- TYPING INTRO (animation replaces long text) -->
+<!-- TYPING INTRO -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;React+%2F+Next.js+Builder;MERN+Stack+Explorer;Hackathon+Team+Lead;UI+Focused+Engineer&center=true&width=500&height=45">
 </p>
@@ -13,9 +13,7 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,git,figma,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,git,figma,vscode" />
 </p>
 
 ---
@@ -43,24 +41,44 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-
-### 🧠 MindMirror
-MERN reflection system  
-→ Emotion tracking + backend architecture
+  <img src="https://raw.githubusercontent.com/Enzertt/YOUR_REPO/main/enzert-logo.png" width="70"/>
+</p>
 
 ---
 
-### 🎯 Kignit
-Campus event discovery platform  
-→ UI system + product design thinking
+### 🧠 Avril Platform
+
+<p align="center">
+  <a href="https://avril-b6c4c.web.app/">
+    <img src="https://img.shields.io/badge/LIVE-DEMO-111952?style=for-the-badge&logo=firebase&logoColor=white">
+  </a>
+</p>
+
+> Deployed web application built with modern frontend structure and real product deployment focus.
 
 ---
 
 ### ⚡ RippleUp
-Hackathon project  
-→ Team leadership + frontend execution
 
+<p align="center">
+  <a href="https://rippleup.netlify.app/">
+    <img src="https://img.shields.io/badge/LIVE-DEMO-2D9CDB?style=for-the-badge&logo=netlify&logoColor=white">
+  </a>
 </p>
+
+> Hackathon project focused on fast UI delivery, collaboration, and frontend execution under time constraints.
+
+---
+
+### 🧳 Rebel Rover Travel
+
+<p align="center">
+  <a href="https://rebel-rover-tt.netlify.app/">
+    <img src="https://img.shields.io/badge/LIVE-DEMO-0F172A?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
+
+> Responsive travel platform UI with modern layout design and clean frontend architecture.
 
 ---
 
@@ -69,7 +87,7 @@ Hackathon project
 - ⚛️ Building React + Next.js apps  
 - 🧱 Improving system design skills  
 - 🚀 Shipping real deployed projects  
-- 🎯 Preparing production-level portfolio
+- 🎯 Preparing production-level portfolio  
 
 ---
 
