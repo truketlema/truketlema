@@ -1,107 +1,84 @@
-<!-- HERO HEADER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:111952,100:2D9CDB&height=240&section=header&text=Truket%20Lema&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Frontend%20Architect%20|%20MERN%20Developer&descAlignY=55&descSize=16)
+<!-- HEADER (keep this) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:111952,100:2D9CDB&height=240&section=header&text=Truket%20Lema&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20|%20MERN%20Developer&descAlignY=55)
 
 ---
 
-## ⚡ Building systems that turn ideas into real products
-
-I’m a Software Engineering student focused on **frontend architecture, full-stack MERN systems, and product-driven development**.
-
-I enjoy building tools that solve real problems — especially in **education, student life, and community systems**.
-
----
-
-## 🧠 What I Do
-
-- ⚛️ Build scalable **React / Next.js interfaces**
-- 🧩 Design reusable frontend systems & components
-- 🌐 Develop full-stack apps using **Node + Express + MongoDB**
-- 🎯 Lead frontend in hackathons & team projects
-- 🚀 Turn ideas into deployed products (not just demos)
+<!-- TYPING INTRO (animation replaces long text) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;React+%2F+Next.js+Builder;MERN+Stack+Explorer;Hackathon+Team+Lead;UI+Focused+Engineer&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## ⚙️ Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss)
+<p align="center">
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-1B4332?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,git,figma,vscode" />
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-0B3D2E?style=for-the-badge&logo=mongodb)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Figma](https://img.shields.io/badge/Figma-1F2937?style=for-the-badge&logo=figma)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats (Live)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
-## 🔥 Contribution Streak
-
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+</p>
 
 ---
 
-## 🚀 Featured Work (Real Projects)
+## 🔥 Streak
 
-### 🧠 MindMirror (MERN System)
-A full-stack reflection platform focused on emotional tracking and self-awareness.
-
-> Full-stack architecture, authentication flow, API design, MongoDB modeling.
-
----
-
-### 🎯 Kignit — Campus Event Discovery System
-A student-focused platform that centralizes campus opportunities and events.
-
-> Built with React + UI system design + product thinking.
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-### ⚡ RippleUp (GDG Hackathon)
-A collaborative hackathon project built under time constraints.
+## 🚀 Featured Projects
 
-> Led frontend development + team coordination.
+<p align="center">
 
----
-
-### 🧳 Travel & Movie Apps
-Smaller production-style projects focused on API integration and UI design.
+### 🧠 MindMirror
+MERN reflection system  
+→ Emotion tracking + backend architecture
 
 ---
 
-## 📈 Current Focus
-
-- 🧱 Improving system design (frontend + backend)
-- ⚙️ Building production-grade MERN applications
-- 🎨 Strengthening UI/UX consistency
-- 🚀 Deploying more real-world projects
+### 🎯 Kignit
+Campus event discovery platform  
+→ UI system + product design thinking
 
 ---
 
-## 🌍 Let’s Connect
+### ⚡ RippleUp
+Hackathon project  
+→ Team leadership + frontend execution
 
-[LinkedIn](https://linkedin.com/in/YOUR_USERNAME)  
-[Portfolio](https://your-portfolio-link.com)  
+</p>
+
+---
+
+## 🌍 Now
+
+- ⚛️ Building React + Next.js apps  
+- 🧱 Improving system design skills  
+- 🚀 Shipping real deployed projects  
+- 🎯 Preparing production-level portfolio
+
+---
+
+## 📫 Connect
+
+<p align="center">
+
+[LinkedIn](https://linkedin.com/in/YOUR_USERNAME) •  
+[Portfolio](https://your-portfolio-link.com) •  
 [Email](mailto:your.email@example.com)
 
----
-
-## ⚡ Developer Mindset
-
-> “Good code works. Great code ships. Real impact happens when users touch it.”
+</p>
