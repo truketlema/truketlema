@@ -9,7 +9,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,git,figma,vscode" />
 </p>
 
-## 🚀 Featured Projects
+
 
 <table align="center">
 <tr>
