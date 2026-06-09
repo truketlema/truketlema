@@ -47,18 +47,17 @@
 </tr>
 </table>
 
-## 🌍 Now
-
-- ⚛️ Building MERN apps  
-- 🧱 Improving system design skills  
-- 🚀 Shipping real deployed projects   
 
 ## 📫 Connect
 
 <p align="center">
-
-[LinkedIn](https://www.linkedin.com/in/truket-lema-707b19316/) •  
-[Portfolio](https://myportfolio-liart-omega-60.vercel.app/) •  
-[Email](mailto:truketlema9489@gmail.com)
-
+  <a href="https://www.linkedin.com/in/truket-lema-707b19316/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://myportfolio-liart-omega-60.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
+  <a href="mailto:truketlema9489@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
