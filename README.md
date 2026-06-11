@@ -11,41 +11,6 @@
 
 
 
-<table align="center">
-<tr>
-
-<td align="center" width="33%">
-
-### MyPoetry Platform
-
-<a href="https://avril-b6c4c.web.app/">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-OPEN-111952?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td align="center" width="33%">
-
-### RippleUp
-
-<a href="https://rippleup.netlify.app/">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-OPEN-2D9CDB?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td align="center" width="33%">
-
-### Rebel Rover Travel
-
-<a href="https://rebel-rover-tt.netlify.app/">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-OPEN-0F172A?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-</table>
 
 
 ---
